@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola! soy Cristian González
 
-<!--
-**cgonzalez26/cgonzalez26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Licenciado en Análisis de Sistemas, estudié en la Universidad Nacional de Salta, me gusta la Tecnología, la Programación y el Futbol.
 
-Here are some ideas to get you started:
+  ## Un poco acerca de mí:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Actualmente trabajo en una Agencia de Tecnología perteneciente al Govierno de la Provincia de Salta
+- Actualmente me encuentro aprendiendo Programación con las Tecnologías MEAN(Mongodb, Express, Angular, Node).
+- Me especializo como Programador Backend, pero he trabajo desde Frontend varios años.
+
+  ## Puedes encontrarme en:
+
+- Web personal [alextomas.com](https://alextomas.com)
+- [LinkedIn](https://www.linkedin.com/in/cristiangonzalez26/)
+- [Facebook](https://www.facebook.com/crisgonzalez26/)
+- [Instagram](https://www.instagram.com/cgonzalez_26/)
